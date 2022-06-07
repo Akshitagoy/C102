@@ -1,0 +1,10 @@
+import time
+import random
+
+print(time.time())
+12354607986848438.1234565678
+
+print(random.randint(0,9))
+6
+
+
